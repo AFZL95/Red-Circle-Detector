@@ -3,7 +3,7 @@
 it is one of the classroom activities i have been done in "Robotics" course.
 simply detect any rounded red objects using the "Emgu-CV" library and the C# programming language.
 
-[scr](https://github.com/AFZL95/Red-Circle-Detector/blob/master/img/scr.png)
+![scr](https://github.com/AFZL95/Red-Circle-Detector/blob/master/img/scr.png)
 
 ## Requirements:
 > Emgu cv 
@@ -30,6 +30,6 @@ simply detect any rounded red objects using the "Emgu-CV" library and the C# pro
  
 6. like the figure below you can download and resolve dependencies. when all dependencies are downloaded, you are ready to go.
 
-[Nuget](https://github.com/AFZL95/Red-Circle-Detector/blob/master/img/Nuget.png) 
+![Nuget](https://github.com/AFZL95/Red-Circle-Detector/blob/master/img/Nuget.png) 
 
 7. finally run the project and hold a rounded Pepsi in front of your webcam.
